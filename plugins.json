@@ -1,0 +1,22 @@
+[
+    {
+        "name": "CDN",
+        "internalName": "CDN",
+        "version": 3,
+        "description": "",
+        "authors": [
+            "the-seko"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "language": "all",
+        "iconUrl": "",
+        "url": "https://raw.githubusercontent.com/the-seko/seko-cs-dist/main/CDN.cs3",
+        "fileSize": 23633,
+        "fileHash": "sha256-754f1bd713c9714ef4086f80d8b16957e6db45e8b850f5c97807d05aaec357f6",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/the-seko/seko-cs-dist",
+        "status": 1
+    }
+]
